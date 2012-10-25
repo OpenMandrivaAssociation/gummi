@@ -14,6 +14,7 @@ BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: gtk2-devel
 BuildRequires: gtkspell-devel
 BuildRequires: libpoppler-devel
+BuildRequires: intltool
 
 %description
 Gummi is a LaTeX editor for the Linux platform written in C/GTK+. It
