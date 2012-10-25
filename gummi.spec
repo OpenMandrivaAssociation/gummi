@@ -15,6 +15,7 @@ BuildRequires: gtk2-devel
 BuildRequires: gtkspell-devel
 BuildRequires: libpoppler-devel
 BuildRequires: intltool
+BuildRequires: gtksourceview
 
 %description
 Gummi is a LaTeX editor for the Linux platform written in C/GTK+. It
