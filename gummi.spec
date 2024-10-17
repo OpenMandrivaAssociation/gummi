@@ -9,7 +9,7 @@ Release: %{release}
 Source0: %{name}-%{version}.tar.gz
 License: MIT
 Group:	 Publishing
-Url:	 http://dev.midnightcoding.org/projects/gummi/
+Url:	 https://dev.midnightcoding.org/projects/gummi/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: gtk2-devel
 BuildRequires: gtkspell-devel
